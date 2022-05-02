@@ -1,0 +1,186 @@
+Country,Coefficient of Variation (CV) of caloric intake,Code
+Afghanistan,0.37,AFG
+Albania,0.29,ALB
+Algeria,0.29,DZA
+Angola,0.35,AGO
+Antigua and Barbuda,0.24,ATG
+Argentina,0.29,ARG
+Armenia,0.23,ARM
+Australia,0.21,AUS
+Austria,0.2,AUT
+Azerbaijan,0.21,AZE
+Bahamas,0.21,BHS
+Bangladesh,0.25,BGD
+Barbados,0.22,BRB
+Belarus,0.2,BLR
+Belgium,0.2,BEL
+Belize,0.25,BLZ
+Benin,0.28,BEN
+Bermuda,0.24,BMU
+Bolivia,0.24,BOL
+Bosnia and Herzegovina,0.22,BIH
+Botswana,0.35,BWA
+Brazil,0.27,BRA
+Brunei,0.21,BRN
+Bulgaria,0.21,BGR
+Burkina Faso,0.4,BFA
+Burundi,0.28,BDI
+Cambodia,0.24,KHM
+Cameroon,0.24,CMR
+Canada,0.2,CAN
+Cape Verde,0.25,CPV
+Central African Republic,0.29,CAF
+Chad,0.4,TCD
+Chile,0.24,CHL
+China,0.19,CHN
+Colombia,0.31,COL
+Comoros,0.26,COM
+Congo,0.3,COG
+Costa Rica,0.23,CRI
+Cote d'Ivoire,0.4,CIV
+Croatia,0.22,HRV
+Cuba,0.23,CUB
+Cyprus,0.18,CYP
+Czechia,0.21,CZE
+Democratic Republic of Congo,0.29,COD
+Denmark,0.21,DNK
+Djibouti,0.3,DJI
+Dominica,0.24,DMA
+Dominican Republic,0.3,DOM
+Ecuador,0.27,ECU
+Egypt,0.32,EGY
+El Salvador,0.26,SLV
+Eritrea,0.26,ERI
+Estonia,0.21,EST
+Eswatini,0.26,SWZ
+Ethiopia,0.32,ETH
+Fiji,0.24,FJI
+Finland,0.2,FIN
+France,0.2,FRA
+French Polynesia,0.23,PYF
+Gabon,0.31,GAB
+Gambia,0.3,GMB
+Georgia,0.29,GEO
+Germany,0.2,DEU
+Ghana,0.3,GHA
+Greece,0.21,GRC
+Grenada,0.28,GRD
+Guatemala,0.35,GTM
+Guinea,0.34,GIN
+Guinea-Bissau,0.28,GNB
+Guyana,0.25,GUY
+Haiti,0.41,HTI
+Honduras,0.31,HND
+Hong Kong,0.22,HKG
+Hungary,0.21,HUN
+Iceland,0.2,ISL
+India,0.29,IND
+Indonesia,0.28,IDN
+Iran,0.27,IRN
+Iraq,0.4,IRQ
+Ireland,0.21,IRL
+Israel,0.21,ISR
+Italy,0.2,ITA
+Jamaica,0.24,JAM
+Japan,0.17,JPN
+Jordan,0.28,JOR
+Kazakhstan,0.25,KAZ
+Kenya,0.28,KEN
+Kiribati,0.29,KIR
+Kuwait,0.26,KWT
+Kyrgyzstan,0.25,KGZ
+Laos,0.23,LAO
+Latvia,0.22,LVA
+Lebanon,0.31,LBN
+Lesotho,0.27,LSO
+Liberia,0.41,LBR
+Libya,0.3,LBY
+Lithuania,0.23,LTU
+Luxembourg,0.2,LUX
+Macao,0.3,MAC
+Madagascar,0.28,MDG
+Malawi,0.36,MWI
+Malaysia,0.21,MYS
+Maldives,0.25,MDV
+Mali,0.39,MLI
+Malta,0.21,MLT
+Mauritania,0.32,MRT
+Mauritius,0.3,MUS
+Mexico,0.34,MEX
+Moldova,0.2,MDA
+Mongolia,0.24,MNG
+Montenegro,0.22,MNE
+Morocco,0.33,MAR
+Mozambique,0.29,MOZ
+Myanmar,0.28,MMR
+Namibia,0.33,NAM
+Nepal,0.28,NPL
+Netherlands,0.2,NLD
+New Caledonia,0.27,NCL
+New Zealand,0.21,NZL
+Nicaragua,0.34,NIC
+Niger,0.41,NER
+Nigeria,0.39,NGA
+North Korea,0.26,PRK
+North Macedonia,0.25,MKD
+Norway,0.2,NOR
+Oman,0.26,OMN
+Pakistan,0.27,PAK
+Palestine,0.37,PSE
+Panama,0.28,PAN
+Papua New Guinea,0.27,PNG
+Paraguay,0.29,PRY
+Peru,0.29,PER
+Philippines,0.31,PHL
+Poland,0.21,POL
+Portugal,0.21,PRT
+Romania,0.2,ROU
+Russia,0.23,RUS
+Rwanda,0.35,RWA
+Saint Kitts and Nevis,0.26,KNA
+Saint Lucia,0.22,LCA
+Saint Vincent and the Grenadines,0.24,VCT
+Samoa,0.27,WSM
+Sao Tome and Principe,0.22,STP
+Saudi Arabia,0.28,SAU
+Senegal,0.24,SEN
+Serbia,0.22,SRB
+Seychelles,0.23,SYC
+Sierra Leone,0.33,SLE
+Slovakia,0.21,SVK
+Slovenia,0.2,SVN
+Solomon Islands,0.29,SLB
+Somalia,0.34,SOM
+South Africa,0.27,ZAF
+South Korea,0.22,KOR
+South Sudan,0.29,SSD
+Spain,0.21,ESP
+Sri Lanka,0.27,LKA
+Sudan,0.28,SDN
+Suriname,0.24,SUR
+Sweden,0.21,SWE
+Switzerland,0.2,CHE
+Syria,0.26,SYR
+Taiwan,0.22,TWN
+Tajikistan,0.3,TJK
+Tanzania,0.38,TZA
+Thailand,0.26,THA
+Timor,0.31,TLS
+Togo,0.32,TGO
+Trinidad and Tobago,0.27,TTO
+Tunisia,0.31,TUN
+Turkey,0.23,TUR
+Turkmenistan,0.24,TKM
+Uganda,0.32,UGA
+Ukraine,0.23,UKR
+United Arab Emirates,0.24,ARE
+United Kingdom,0.2,GBR
+United States,0.17,USA
+Uruguay,0.22,URY
+Uzbekistan,0.25,UZB
+Vanuatu,0.28,VUT
+Venezuela,0.24,VEN
+Vietnam,0.29,VNM
+Yemen,0.41,YEM
+Zambia,0.36,ZMB
+Zimbabwe,0.31,ZWE
